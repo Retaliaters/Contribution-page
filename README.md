@@ -1,4 +1,4 @@
-#Contribution-page
+# Contribution-page
 ## Guidelines for participation in the retaliters community.
 No matter what differences there may be among open source enthusiasts, we accept contributions from all of them.
 
