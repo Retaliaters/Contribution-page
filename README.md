@@ -13,3 +13,6 @@ No matter what differences there may be among open source enthusiasts, we accept
 >For more information, if you're a golang web developer, visit our `#golang` channel on [Discord](https://discord.com/invite/8fRqcDb5Te).
 
 These are currently the skills that are crucial for contribution in the Retaliaters organisation. Contribution based on various other skills will be updated shortly.
+
+## Contact for additional details
+* [Siddhant](https://github.com/KCREEK)- Discord Username- NOOB CREEK#7443
